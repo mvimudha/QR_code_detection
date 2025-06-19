@@ -1,11 +1,8 @@
-Thanks! Based on the structure of your project and the two scripts — one for **QR code detection** and another for **QR-based autonomous navigation** — here’s a **professional, clean, and informative `README.md`** you can use or build upon:
 
 ---
 
 ````markdown
-<p align="center">
-  <img src="https://img.icons8.com/fluency/96/qr-code.png" alt="QR Logo"/>
-</p>
+
 
 # 🤖 QR Code-Based Navigation System
 
