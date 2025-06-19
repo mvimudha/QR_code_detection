@@ -119,8 +119,8 @@ QR_code_detection/
 Here are some images from the working system:
 
 <p float="left">
-  <img src="QR_Codes/qr1.png" width="300"/>
-  <img src="QR_Codes/qr2.png" width="300"/>
+  <img src="QR_Codes/qr_code_1.png" width="300"/>
+  <img src="QR_Codes/qr_code_5.png" width="300"/>
 </p>
 
 ---
